@@ -1,0 +1,11 @@
+
+.column{
+    margin: 150px auto;
+    display: block;
+    justify-content: space-around;
+    display: flex;
+    max-width: 600px;
+    background-color: bisque;
+    padding: 30px 0;
+    border-bottom: 10px solid brown;
+}
